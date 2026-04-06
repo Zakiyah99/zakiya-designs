@@ -133,7 +133,7 @@ Use on [Admin login](https://zakiya-desig.vercel.app/login) or `/login` when run
 
 | | |
 |--|--|
-| **Email** | `admin@gmail.com` |
+| **Email** | `zakiya@gmail.com` |
 | **Password** | `12345678` |
 
 If sign-in fails on production, confirm the user exists in Supabase **Authentication → Users**, that **Email** provider is enabled, that **Site URL / Redirect URLs** include `https://zakiya-desig.vercel.app`, and that Gmail addresses meet Supabase email-validation rules if applicable.
