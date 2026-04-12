@@ -21,8 +21,8 @@
 
 | | URL |
 |--|-----|
-| **Site** | [https://zakiya-desig.vercel.app](https://zakiya-desig.vercel.app) |
-| **Admin sign-in** | [https://zakiya-desig.vercel.app/login](https://zakiya-desig.vercel.app/login) |
+| **Site** | [https://zakiya-design.vercel.app](https://zakiya-design.vercel.app) |
+| **Admin sign-in** | [https://zakiya-design.vercel.app/login](https://zakiya-design.vercel.app/login) |
 
 In **Vercel → Project → Settings → Environment Variables**, set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY` (Production), then redeploy. In **Supabase → Authentication → URL configuration**, set **Site URL** to `https://zakiya-desig.vercel.app` and add the same origin under **Redirect URLs**.
 
