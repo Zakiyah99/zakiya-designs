@@ -12,7 +12,7 @@
 
 <p align="center">
   <strong>Live:</strong> <a href="https://zakiya-desig.vercel.app">zakiya-desig.vercel.app</a>
-  · <a href="https://zakiya-desig.vercel.app/login">Admin login</a>
+  · <a href="https://zakiya-design.vercel.app/login">Admin login</a>
 </p>
 
 ---
